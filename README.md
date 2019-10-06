@@ -1,24 +1,5 @@
-# README
+First Rails Application! Splurty - A Quote Generator
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Database-powered quote generator with a mobile-first design, using Ruby on Rails framework, HTML, and CSS. Learned how to use Git and GitHub for version control and launched through Heroku. HTML, CSS, RUBY, RAILS
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://dirt-patties.herokuapp.com/
