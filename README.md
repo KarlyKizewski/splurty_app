@@ -3,12 +3,7 @@ http://splurty-karly.herokuapp.com/ <br />
 First project accomplished during The George Washington University Boot Camp. Database-powered quote generator with mobile-first design, using Ruby on Rails framework, HTML and CSS. Learned how to use Git and GitHub for version control and launch to Heroku. Follows wireframes with personal embellishments regarding Google fonts and color selections. HTML, CSS, RUBY, RAILS. <br />
 
 ## Visuals
-<img src="splurty1.png" alt="Splurty Screenshot">
-<br />
-<img src="splurty2.png" alt="Splurty Screenshot">
-<br />
-<img src="splurty3.png" alt="Splurty Screenshot">
-<br />
+
  
 ## Deployment
 
